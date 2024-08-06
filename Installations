@@ -1,0 +1,82 @@
+Make sure to *import/install these modules if you are getting any errors regarding imports*
+
+pip install vpython
+pip install opencv-python 
+pip install PyOpenGL
+pip install pygame
+
+
+1st: 
+no installations required
+
+2nd: 
+no installations required
+
+3rd:
+ install vpython module by giving command: 
+
+pip install vpython
+
+
+4th:
+ install cv2 module by giving command:
+
+ pip install opencv-python 
+
+
+5th: 
+install pygame module by giving command: 
+
+pip install pygame 
+
+& install one more module named PyOpenGL by command: 
+
+pip install PyOpenGL
+
+
+6th: 
+
+make sure pygame module is there if not give command: 
+
+pip install pygame
+
+
+7th: 
+
+no installations is required but make sure one image is downloaded and loaded in vs code directory and name the image. give same name which you named for the image in your code in image_path variable.
+
+
+8th: 
+
+no installations is required 
+
+but make sure one image is downloaded and loaded in vs code directory and name the image. give same name which you named for the image in your code in image_path variable.
+
+
+9th:
+
+ no installations is required
+
+ but make sure one image is downloaded and loaded in vs code directory and name the image. give same name which you named for the image in your code in image_path variable.
+
+
+10th: 
+
+no installations is required 
+
+but make sure one image is downloaded and loaded in vs code directory and name the image. give same name which you named for the image in your code in image_path variable.
+
+
+
+11th:
+
+ no installations is required
+
+ but make sure one image is downloaded and loaded in vs code directory and name the image. give same name which you named for the image in your code in image_path variable.
+
+
+12th:
+
+ no installations is required 
+
+but make sure one image is downloaded and loaded in vs code directory and name the image. give same name which you named for the image in your code in image_path variable.
